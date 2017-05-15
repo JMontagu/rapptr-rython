@@ -1,16 +1,38 @@
 assets = [
     {
-        'AssetName': 'Red Jelly Beans',
-        'AssetClass': 'Equity',
-        'Quantity': 100,
-        'CountryOfIssue': 'AUD',
-        'CallOrPut': ''
+        'AssetName': 'Bourbon Biscuits',
+        'Quantity': 10,
+        'Price': 0.1,
+        'VotesPerShare': 1,
+        'TotalVotes': 500,
+        'CountryOfIssue': 'GB',
+        'Issuer': 'M&S'
     },
     {
-        'AssetName': 'Cadbury Creme Eggs',
-        'AssetClass': 'Equity',
-        'Quantity': 5,
-        'CountryOfIssue': 'UK',
-        'CallOrPut': 'Call'
+        'AssetName': 'Custard Creams',
+        'Quantity': 100,
+        'Price': 1,
+        'VotesPerShare': 1,
+        'TotalVotes': 500,
+        'CountryOfIssue': 'GB',
+        'Issuer': 'Tesco'
+    },
+    {
+        'AssetName': 'K-Bar',
+        'Quantity': 11,
+        'Price': 0.25,
+        'VotesPerShare': 1,
+        'TotalVotes': 20,
+        'CountryOfIssue': 'NZ',
+        'Issuer': 'Whittakers'
+    },
+    {
+        'AssetName': 'Tim-Tam',
+        'Quantity': 8,
+        'Price': 3.5,
+        'VotesPerShare': 1,
+        'TotalVotes': 50,
+        'CountryOfIssue': 'AU',
+        'Issuer': 'Arnott\'s'
     },
 ]
